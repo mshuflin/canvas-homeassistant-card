@@ -1,0 +1,9 @@
+{
+  "domain": "your_domain_name",
+  "name": "Canvas Home Assistant",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://www.example.com",
+  "iot_class": "cloud_polling",
+  "version": "0.0.1"
+}
