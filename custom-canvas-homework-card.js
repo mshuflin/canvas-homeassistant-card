@@ -1,4 +1,4 @@
-import { LitElement, html } from "https://unpkg.com/lit?module";
+import { LitElement, html } from "https://cdn.jsdelivr.net/npm/lit-element@4.1.0/lit-element.min.js";
 import { classMap } from "https://unpkg.com/lit-html@2.3.1/directives/class-map.js?module"
 import { unsafeHTML } from 'https://unpkg.com/lit-html@latest/directives/unsafe-html.js?module';
 
