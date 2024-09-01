@@ -1,6 +1,6 @@
 import { LitElement, html } from "https://cdn.jsdelivr.net/npm/lit-element@4.1.0/lit-element.min.js";
 import { classMap } from "https://cdn.jsdelivr.net/npm/lit-html@3.2.0/lit-html.min.js"
-import { unsafeHTML } from 'https://unpkg.com/lit-html@latest/directives/unsafe-html.js?module';
+import { unsafeHTML } from 'https://cdn.jsdelivr.net/npm/dangerous-html@0.1.13/dist/react/lib.min.js';
 
 // Configure the preview in the Lovelace card picker
 window.customCards = window.customCards || [];
